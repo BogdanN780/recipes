@@ -1,3 +1,2 @@
-# odin-recipes
-BogdanN780.
-Odin First Project
+My first html code, quick recipes
+https://bogdann780.github.io/odin-recipes/
